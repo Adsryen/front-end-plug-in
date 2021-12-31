@@ -4,53 +4,26 @@
   <img width="100" src="https://raw.githubusercontent.com/autofelix/autofelix/4a4114ac3d92fe000cd50a361ef20d0392bd9055/assets/icons/vscode.svg">
 </p>
 
-## Introduction
+## 项目简介
 🌈各种优秀的前端插件：二维码生成器、即时通讯、时间处理、陀螺仪、图片查看器、音频处理、剪切板粘贴复制、图片预加载、优美的弹窗、省市互联、网页无刷新、代码美化、游戏引擎、数学公式显示、视频播放、md5加密、cookie操作等
 
 <p align="center">
-<a href="https://github.com/ElemeFE/element">
+  <a href="https://github.com/vuejs/vue">
+    <img src="https://img.shields.io/badge/javascript-支持-ff69b4.svg" alt="javascript">
+  </a>
+  <a href="https://github.com/ElemeFE/element">
     <img src="https://img.shields.io/badge/visual studio code-支持-6bb59a.svg" alt="element-ui">
   </a>
   <a href="https://github.com/ElemeFE/element">
     <img src="https://img.shields.io/badge/css-支持-brightgreen.svg" alt="element-ui">
   </a>
-  <a href="https://github.com/vuejs/vue">
-    <img src="https://img.shields.io/badge/javascript-支持-ff69b4.svg" alt="javascript">
-  </a>
 </p>
 
-<p align="center">
-  <b>SPONSORED BY</b>
-</p>
-<table align="center" cellspacing="0" cellpadding="0">
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-       <a href="https://www.vform666.com/" title="variantForm" target="_blank" style="padding-right: 20px;">
-      <img height="200px" style="padding-right: 20px;" src="https://gitee.com/panjiachen/gitee-cdn/raw/master/vue%E8%B5%9E%E5%8A%A92.png" title="variantForm">
-   </a>
-      </td>
-      <td align="center" valign="middle">
-         <a href="https://finclip.com?from=vue_element" title="FinClip" target="_blank">
-      <img height="200px" src="https://gitee.com/panjiachen/gitee-cdn/raw/master/vue%E8%B5%9E%E5%8A%A9.png" title="FinClip">
-   </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## 项目结构
 
-## Preparation
 
-You need to install [node](https://nodejs.org/) and [git](https://git-scm.com/) locally. The project is based on [ES2015+](https://es6.ruanyifeng.com/), [vue](https://cn.vuejs.org/index.html), [vuex](https://vuex.vuejs.org/zh-cn/), [vue-router](https://router.vuejs.org/zh-cn/), [vue-cli](https://github.com/vuejs/vue-cli) , [axios](https://github.com/axios/axios) and [element-ui](https://github.com/ElemeFE/element), all request data is simulated using [Mock.js](https://github.com/nuysoft/Mock).
-Understanding and learning this knowledge in advance will greatly help the use of this project.
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/PanJiaChen/vue-element-admin/tree/CodeSandbox)
-
-<p align="center">
-  <img width="900" src="https://wpimg.wallstcn.com/a5894c1b-f6af-456e-82df-1151da0839bf.png">
-</p>
-
-## Sponsors
+## 项目赞助
 
 Become a sponsor and get your logo on our README on GitHub with a link to your site. [[Become a sponsor]](https://www.patreon.com/panjiachen)
 
@@ -148,16 +121,6 @@ npm run dev
 ```
 
 This will automatically open http://localhost:9527
-
-## Build
-
-```bash
-# build for test environment
-npm run build:stage
-
-# build for production environment
-npm run build:prod
-```
 
 ## Advanced
 
