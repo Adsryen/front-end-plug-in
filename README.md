@@ -5,12 +5,11 @@
 </p>
 
 ## Introduction
-
 🌈各种优秀的前端插件：二维码生成器、即时通讯、时间处理、陀螺仪、图片查看器、音频处理、剪切板粘贴复制、图片预加载、优美的弹窗、省市互联、网页无刷新、代码美化、游戏引擎、数学公式显示、视频播放、md5加密、cookie操作等
 
 <p align="center">
 <a href="https://github.com/ElemeFE/element">
-    <img src="https://img.shields.io/badge/vscode-支持-6bb59a.svg" alt="element-ui">
+    <img src="https://img.shields.io/badge/visual studio code-支持-6bb59a.svg" alt="element-ui">
   </a>
   <a href="https://github.com/ElemeFE/element">
     <img src="https://img.shields.io/badge/css-支持-brightgreen.svg" alt="element-ui">
