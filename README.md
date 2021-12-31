@@ -4,18 +4,16 @@
   <img width="320" src="https://raw.githubusercontent.com/autofelix/autofelix/4a4114ac3d92fe000cd50a361ef20d0392bd9055/assets/icons/front-end.svg">
 </p>
 
-🌈各种优秀的前端插件：二维码生成器、即时通讯、时间处理、陀螺仪、图片查看器、音频处理、剪切板、数学公式显示、视频播放、md5加密、cookie操作等
+🌈各种优秀的前端插件：二维码生成器、即时通讯、时间处理、陀螺仪、图片查看器、音频处理、剪切板粘贴复制、图片预加载、优美的弹窗、省市互联、网页无刷新、代码美化、游戏引擎、数学公式显示、视频播放、md5加密、cookie操作等
 
 <p align="center">
+  <a href="https://github.com/ElemeFE/element">
+    <img src="https://img.shields.io/badge/css-支持-brightgreen.svg" alt="element-ui">
+  </a>
   <a href="https://github.com/vuejs/vue">
     <img src="https://img.shields.io/badge/javascript-支持-ff69b4.svg" alt="javascript">
   </a>
-  <a href="https://github.com/ElemeFE/element">
-    <img src="https://img.shields.io/badge/css-2.7.0-brightgreen.svg" alt="element-ui">
-  </a>
 </p>
-
-English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md) | [Spanish](./README.es.md)
 
 <p align="center">
   <b>SPONSORED BY</b>
@@ -206,11 +204,7 @@ Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/gui
 
 ## Changelog
 
-Detailed changes for each release are documented in the [release notes](https://github.com/PanJiaChen/vue-element-admin/releases).
-
-## Online Demo
-
-[Preview](https://panjiachen.github.io/vue-element-admin)
+Detailed changes for each release are documented in the [release notes](https://github.com/autofelix/front-end-plug-in/releases).
 
 ## Donate
 
