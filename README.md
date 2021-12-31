@@ -56,8 +56,13 @@
 ## 项目预览
 | repository | homepage | stars | last commit | NPM downloads | top language
 | --- | --- | :--- | :--- | :--- | ---: | 
-| [surmon.me](https://github.com/surmon-china/surmon.me) <img src="https://raw.githubusercontent.com/autofelix/autofelix/4a4114ac3d92fe000cd50a361ef20d0392bd9055/assets/icons/vue.svg" height="13px" /> 🔥 | [`🔗 surmon.me`](https://surmon.me) | [![GitHub stars](https://img.shields.io/github/stars/surmon-china/surmon.me?style=flat-square&label=✨)](https://github.com/surmon-china/surmon.me/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/surmon-china/surmon.me?style=flat-square&label=%20)](https://github.com/surmon-china/surmon.me/commits) | - | ![GitHub top language](https://img.shields.io/github/languages/top/surmon-china/surmon.me?style=flat-square)
-| - | - | - | - |
+| [nprogress.js](https://github.com/rstacruz/nprogress) 
+| [`🔗 nprogress.js`](https://github.com/rstacruz/nprogress) 
+| [![GitHub stars](https://img.shields.io/github/stars/rstacruz/nprogress?style=flat-square&label=✨)](https://github.com/rstacruz/nprogress/stargazers) 
+| [![GitHub last commit](https://img.shields.io/github/last-commit/rstacruz/nprogress?style=flat-square&label=%20)](https://github.com/rstacruz/nprogress/commits) 
+| [![NPM downloads](https://img.shields.io/npm/dy/emoji-233333?style=flat-square&label=⚡&color=cb3837&labelColor=231f20)](https://www.npmjs.com/package/emoji-233333) 
+| ![GitHub top language](https://img.shields.io/github/languages/top/rstacruz/nprogress?style=flat-square)
+| - | - | - | - | - | - |
 
 ## 项目赞助
 Become a sponsor and get your logo on our README on GitHub with a link to your site. [[Become a sponsor]](https://www.patreon.com/autofelix)
