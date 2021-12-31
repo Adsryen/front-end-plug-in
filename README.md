@@ -54,9 +54,11 @@
 - [兼容jq的dom操作](https://github.com/autofelix/front-end-plug-in/blob/main/zepto.min.js)
 
 ## 项目预览
-| repository | stars | last commit | NPM downloads | top language
+| repository | homepage stars | last commit | NPM downloads | top language
 | --- | :--- | :--- | :--- | ---: | 
-| [`🔗 nprogress.js`](https://github.com/rstacruz/nprogress) | [![GitHub stars](https://img.shields.io/github/stars/rstacruz/nprogress?style=flat-square&label=✨)](https://github.com/rstacruz/nprogress/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/rstacruz/nprogress?style=flat-square&label=%20)](https://github.com/rstacruz/nprogress/commits) | [![NPM downloads](https://img.shields.io/npm/dy/emoji-233333?style=flat-square&label=⚡&color=cb3837&labelColor=231f20)](https://www.npmjs.com/package/emoji-233333) | ![GitHub top language](https://img.shields.io/github/languages/top/rstacruz/nprogress?style=flat-square)
+| [`🔗 nprogress.js`](https://github.com/rstacruz/nprogress) | - | [![GitHub stars](https://img.shields.io/github/stars/rstacruz/nprogress?style=flat-square&label=✨)](https://github.com/rstacruz/nprogress/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/rstacruz/nprogress?style=flat-square&label=%20)](https://github.com/rstacruz/nprogress/commits) | [![NPM downloads](https://img.shields.io/npm/dy/emoji-233333?style=flat-square&label=⚡&color=cb3837&labelColor=231f20)](https://www.npmjs.com/package/emoji-233333) | ![GitHub top language](https://img.shields.io/github/languages/top/rstacruz/nprogress?style=flat-square)
+
+| [`🔗 orienter.js`](https://github.com/rstacruz/nprogress) | - | [![GitHub stars](https://img.shields.io/github/stars/rstacruz/nprogress?style=flat-square&label=✨)](https://github.com/rstacruz/nprogress/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/rstacruz/nprogress?style=flat-square&label=%20)](https://github.com/rstacruz/nprogress/commits) | [![NPM downloads](https://img.shields.io/npm/dy/emoji-233333?style=flat-square&label=⚡&color=cb3837&labelColor=231f20)](https://www.npmjs.com/package/emoji-233333) | ![GitHub top language](https://img.shields.io/github/languages/top/rstacruz/nprogress?style=flat-square)
 | - | - | - | - | - | - |
 
 ## 项目赞助
