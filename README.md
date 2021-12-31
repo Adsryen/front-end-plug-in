@@ -1,7 +1,7 @@
 # front-end-plug-in
 
 <p align="center">
-  <img width="320" src="https://raw.githubusercontent.com/autofelix/autofelix/4a4114ac3d92fe000cd50a361ef20d0392bd9055/assets/icons/front-end.svg">
+  <img width="320" src="https://raw.githubusercontent.com/autofelix/autofelix/4a4114ac3d92fe000cd50a361ef20d0392bd9055/assets/icons/vscode.svg">
 </p>
 
 🌈各种优秀的前端插件：二维码生成器、即时通讯、时间处理、陀螺仪、图片查看器、音频处理、剪切板粘贴复制、图片预加载、优美的弹窗、省市互联、网页无刷新、代码美化、游戏引擎、数学公式显示、视频播放、md5加密、cookie操作等
