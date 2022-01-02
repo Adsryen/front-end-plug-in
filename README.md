@@ -109,6 +109,12 @@ clipboard.on('error', function (e) {
 });
 ```
 
+`🔗 autofelix.country.data.js`
+
+```javascript
+var country_data = AutofelixCountryData;
+```
+
 ## Changelog
 
 Detailed changes for each release are documented in the [release notes](https://github.com/autofelix/front-end-plug-in/releases).
