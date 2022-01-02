@@ -90,6 +90,25 @@ NProgress.start();
 NProgress.done();
 ```
 
+`🔗 clipboard.js`
+
+```javascript
+var clipboard = new ClipboardJS('.btn');
+
+clipboard.on('success', function (e) {
+  console.info('Action:', e.action);
+  console.info('Text:', e.text);
+  console.info('Trigger:', e.trigger);
+
+  e.clearSelection();
+});
+
+clipboard.on('error', function (e) {
+  console.error('Action:', e.action);
+  console.error('Trigger:', e.trigger);
+});
+```
+
 ## Changelog
 
 Detailed changes for each release are documented in the [release notes](https://github.com/autofelix/front-end-plug-in/releases).
