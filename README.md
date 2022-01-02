@@ -115,6 +115,22 @@ clipboard.on('error', function (e) {
 var country_data = AutofelixCountryData;
 ```
 
+`🔗 howler.js`
+
+```javascript
+var sound = new Howl({
+  src: ['sounds.webm', 'sounds.mp3'],
+  sprite: {
+    blast: [0, 3000],
+    laser: [4000, 1000],
+    winner: [6000, 5000]
+  }
+});
+
+// Shoot the laser!
+sound.play('laser');
+```
+
 ## Changelog
 
 Detailed changes for each release are documented in the [release notes](https://github.com/autofelix/front-end-plug-in/releases).
