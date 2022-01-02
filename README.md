@@ -85,7 +85,7 @@ Become a sponsor and get your logo on our README on GitHub with a link to your s
 
 `🔗 nprogress.js`
 
-```bash
+```javascript
 NProgress.start();
 NProgress.done();
 ```
@@ -129,6 +129,27 @@ var sound = new Howl({
 
 // Shoot the laser!
 sound.play('laser');
+```
+
+`🔗 html2canvas.js`
+
+```javascript
+html2canvas(document.body).then(function(canvas) {
+    document.body.appendChild(canvas);
+});
+```
+
+`🔗 qrcode.js`
+
+```javascript
+var qrcode = new QRCode(document.getElementById("qrcode"), {
+	text: "http://jindo.dev.naver.com/collie",
+	width: 128,
+	height: 128,
+	colorDark : "#000000",
+	colorLight : "#ffffff",
+	correctLevel : QRCode.CorrectLevel.H
+});
 ```
 
 ## Changelog
