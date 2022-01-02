@@ -151,6 +151,11 @@ var qrcode = new QRCode(document.getElementById("qrcode"), {
 	correctLevel : QRCode.CorrectLevel.H
 });
 ```
+`🔗 vconsole.js`
+
+```javascript
+var vConsole = new window.VConsole();
+```
 
 ## Changelog
 
