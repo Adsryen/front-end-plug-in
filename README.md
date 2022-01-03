@@ -170,6 +170,32 @@ toast({
 })
 ```
 
+`🔗 message.js`
+
+```javascript
+Qmsg.info()
+Qmsg.warning()
+Qmsg.error()
+Qmsg.success()
+Qmsg.loading()
+
+Qmsg.loading("我是加载条");
+Qmsg.info("给你个眼神，你懂得",{
+    showClose:true,
+    onClose:function(){
+        console.log('我懂了')
+    }
+})
+Qmsg.error({
+    content:"1+1=3",
+    timeout:5000
+})
+
+var aMsg = Qmsg.info("这是个info消息")
+aMsg.close()
+aMsg.destroy()
+```
+
 `🔗 qrcode.js`
 
 ```javascript
