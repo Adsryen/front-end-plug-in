@@ -139,6 +139,37 @@ html2canvas(document.body).then(function(canvas) {
 });
 ```
 
+`🔗 message.js`
+
+```javascript
+alert('请打开麦克风')
+confirm('请打开麦克风')
+toast('请打开麦克风')
+
+alert({
+    title: '我是标题',
+    content: '请打开麦克风',
+    doneText: '按钮文字'
+}).then(callback)
+
+confirm({
+    title: '我是标题',
+    content: '请打开麦克风',
+    doneText: '确认按钮文字',
+    cancalText: '取消按钮文字'
+}).then(() => {
+    console.log('已确认')
+}).catch(() => {
+    console.log('已取消')
+})
+
+toast({
+    time: 3000,
+    content: '停留3秒再消失',
+    type: 'loading'
+})
+```
+
 `🔗 qrcode.js`
 
 ```javascript
