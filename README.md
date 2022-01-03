@@ -170,7 +170,7 @@ toast({
 })
 ```
 
-`🔗 message.js`
+`🔗 qmessage.js`
 
 ```javascript
 Qmsg.info()
