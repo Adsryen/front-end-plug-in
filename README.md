@@ -221,7 +221,7 @@ Detailed changes for each release are documented in the [release notes](https://
 
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
-![donate](https://wpimg.wallstcn.com/bd273f0d-8)
+![donate](https://autofelix.github.io/autofelix/assets/imgs/sponsor.png)
 
 [Paypal Me](https://www.paypal.me/autofelix)
 
