@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/jquery-1.12.0-ff69b4.svg" alt="jquery">
   <img src="https://img.shields.io/badge/nprogress-0.2.0-6bb59a.svg" alt="nprogress">
   <img src="https://img.shields.io/badge/swiper-3.4.1-brightgreen.svg" alt="swiper">
-  <img src="https://img.shields.io/badge/swiper-支持-e65165.svg" alt="swiper">
+  <img src="https://img.shields.io/badge/clipboard-2.0.4-e65165.svg" alt="clipboard">
+  <img src="https://img.shields.io/badge/js-cookie-3.0.0-e65165.svg" alt="js-cookie">
 </p>
 
 ## 项目结构
