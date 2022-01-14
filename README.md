@@ -1,15 +1,9 @@
 # front-end-plug-in
-
-<p align="center">
-  <img width="100" src="https://autofelix.github.io/autofelix/assets/icons/vscode.svg">
-</p>
-
-## 项目简介
 🌈各种优秀的前端插件：二维码生成器、即时通讯、时间处理、陀螺仪、图片查看器、音频处理、剪切板粘贴复制、图片预加载、优美的弹窗、省市互联、网页无刷新、代码美化、游戏引擎、数学公式显示、视频播放、md5加密、cookie操作等
 
 <p align="center">
   <a href="https://github.com/vuejs/vue">
-    <img src="https://img.shields.io/badge/javascript-支持-ff69b4.svg" alt="javascript">
+    <img src="https://img.shields.io/badge/jquery-1.12.0-ff69b4.svg" alt="jquery">
   </a>
   <a href="https://github.com/ElemeFE/element">
     <img src="https://img.shields.io/badge/visual studio code-支持-6bb59a.svg" alt="element-ui">
@@ -76,9 +70,6 @@
 | [`🔗 zepto.js`](https://github.com/madrobby/zepto) | - | [![GitHub stars](https://img.shields.io/github/stars/madrobby/zepto?style=flat-square&label=✨)](https://github.com/madrobby/zepto/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue?style=flat-square&label=%20)](https://github.com/madrobby/zepto/commits) | [![NPM downloads](https://img.shields.io/npm/dy/zepto?style=flat-square&label=⚡&color=cb3837&labelColor=231f20)](https://www.npmjs.com/package/zepto) | ![GitHub top language](https://img.shields.io/github/languages/top/madrobby/zepto?style=flat-square)
 | [`🔗 jquery.js`](https://github.com/jquery/jquery) | - | [![GitHub stars](https://img.shields.io/github/stars/jquery/jquery?style=flat-square&label=✨)](https://github.com/jquery/jquery/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue?style=flat-square&label=%20)](https://github.com/jquery/jquery/commits) | [![NPM downloads](https://img.shields.io/npm/dy/jquery?style=flat-square&label=⚡&color=cb3837&labelColor=231f20)](https://www.npmjs.com/package/jquery) | ![GitHub top language](https://img.shields.io/github/languages/top/jquery/jquery?style=flat-square)
 | [`🔗 swiper.js`](https://github.com/nolimits4web/swiper) | - | [![GitHub stars](https://img.shields.io/github/stars/nolimits4web/swiper?style=flat-square&label=✨)](https://github.com/nolimits4web/swiper/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/vuejs/vue?style=flat-square&label=%20)](https://github.com/nolimits4web/swiper/commits) | [![NPM downloads](https://img.shields.io/npm/dy/swiper?style=flat-square&label=⚡&color=cb3837&labelColor=231f20)](https://www.npmjs.com/package/swiper) | ![GitHub top language](https://img.shields.io/github/languages/top/nolimits4web/swiper?style=flat-square)
-
-## 项目赞助
-Become a sponsor and get your logo on our README on GitHub with a link to your site. [[Become a sponsor]](https://www.patreon.com/autofelix)
 
 ## 开始使用
 
@@ -213,27 +204,23 @@ var qrcode = new QRCode(document.getElementById("qrcode"), {
 var vConsole = new window.VConsole();
 ```
 
-## Changelog
+## 项目贡献
 
-Detailed changes for each release are documented in the [release notes](https://github.com/autofelix/front-end-plug-in/releases).
-
-## Donate
-
-If you find this project useful, you can buy author a glass of juice :tropical_drink:
+如果你觉得项目有用, 就请我喝杯奶茶吧 :tropical_drink:
 
 ![donate](https://autofelix.github.io/autofelix/assets/imgs/sponsor.png)
 
-[Paypal Me](https://www.paypal.me/autofelix)
+## 加入我们
 
-[Buy me a coffee](https://www.buymeacoffee.com/autofelix)
+想学习更多的技术知识, 就关注我的个人公众号吧 :blush:
 
-## Browsers support
+![donate](https://autofelix.github.io/autofelix/assets/imgs/userinfo.png)
 
-Modern browsers and Internet Explorer 10+.
+## 浏览器支持情况
 
 | [<img src="https://autofelix.github.io/autofelix/assets/icons/ie.svg" alt="IE / Edge" width="24px" height="24px" />](https://godban.github.io/browsers-support-badges/)</br>IE / Edge | [<img src="https://autofelix.github.io/autofelix/assets/icons/firefox.svg" alt="Firefox" width="24px" height="24px" />](https://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://autofelix.github.io/autofelix/assets/icons/chrome.svg" alt="Chrome" width="24px" height="24px" />](https://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://autofelix.github.io/autofelix/assets/icons/safari.svg" alt="Safari" width="24px" height="24px" />](https://godban.github.io/browsers-support-badges/)</br>Safari | [<img src="https://autofelix.github.io/autofelix/assets/icons/sogou.svg" alt="Sogou" width="24px" height="24px" />](https://godban.github.io/browsers-support-badges/)</br>Sogou | [<img src="https://autofelix.github.io/autofelix/assets/icons/uc.svg" alt="UC" width="24px" height="24px" />](https://godban.github.io/browsers-support-badges/)</br>UC | [<img src="https://autofelix.github.io/autofelix/assets/icons/360.svg" alt="360" width="24px" height="24px" />](https://godban.github.io/browsers-support-badges/)</br>360 |
 | --------- | --------- | --------- | --------- | --------- | --------- | --------- |
-| all versions | all versions | all versions | all versions | all versions | all versions | all versions |
+| 所有版本 | 所有版本 | 所有版本 | 所有版本 | 所有版本 | 所有版本 | 所有版本 |
 
 ## License
 
