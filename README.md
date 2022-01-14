@@ -10,10 +10,15 @@
 </p>
 
 <p align="center">
+
   ![jquery](https://img.shields.io/badge/jquery-1.12.0-ff69b4.svg)
+
   ![nprogress](https://img.shields.io/badge/nprogress-0.2.0-6bb59a.svg)
+
   ![swiper](https://img.shields.io/badge/swiper-3.4.1-brightgreen.svg)
+
   ![clipboard](https://img.shields.io/badge/clipboard-2.0.4-e65165.svg)
+
   ![js-cookie](https://img.shields.io/badge/js cookie-3.0.0-orange.svg)
 </p>
 
