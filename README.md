@@ -2,15 +2,10 @@
 🌈各种优秀的前端插件：二维码生成器、即时通讯、时间处理、陀螺仪、图片查看器、音频处理、剪切板粘贴复制、图片预加载、优美的弹窗、省市互联、网页无刷新、代码美化、游戏引擎、数学公式显示、视频播放、md5加密、cookie操作等
 
 <p align="center">
-  <a href="https://github.com/vuejs/vue">
-    <img src="https://img.shields.io/badge/jquery-1.12.0-ff69b4.svg" alt="jquery">
-  </a>
-  <a href="https://github.com/ElemeFE/element">
-    <img src="https://img.shields.io/badge/visual studio code-支持-6bb59a.svg" alt="element-ui">
-  </a>
-  <a href="https://github.com/ElemeFE/element">
-    <img src="https://img.shields.io/badge/css-支持-brightgreen.svg" alt="element-ui">
-  </a>
+  <img src="https://img.shields.io/badge/jquery-1.12.0-ff69b4.svg" alt="jquery">
+  <img src="https://img.shields.io/badge/nprogress-0.2.0-6bb59a.svg" alt="nprogress">
+  <img src="https://img.shields.io/badge/swiper-3.4.1-brightgreen.svg" alt="swiper">
+  <img src="https://img.shields.io/badge/swiper-支持-e65165.svg" alt="swiper">
 </p>
 
 ## 项目结构
